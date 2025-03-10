@@ -12,6 +12,7 @@ train的数据集来源自[CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects
 - test2：静态单人的识别
 - test3：静态多人的识别
 - test4：摄像头源的识别（默认开启笔记本显示器设备0）
+- gender_??_.h5 训练好的模型
 
 实现图：
 
