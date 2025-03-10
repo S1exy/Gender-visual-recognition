@@ -15,8 +15,8 @@ train的数据集来源自[CelebA Dataset](https://mmlab.ie.cuhk.edu.hk/projects
 
 实现图：
 
-<img src="https://gitee.com/Slexy/picture/raw/master/20250310221715920.png" alt="image-20250310221715691" style="zoom:50%;" />
+<img src="https://gitee.com/Slexy/picture/raw/master/20250310221715920.png" alt="image-20250310221715691" style="zoom:25%;" />
 
-<img src="https://gitee.com/Slexy/picture/raw/master/20250310221722440.png" alt="image-20250310221722341" style="zoom:50%;" />
+<img src="https://gitee.com/Slexy/picture/raw/master/20250310221722440.png" alt="image-20250310221722341" style="zoom:25%;" />
 
-<img src="https://gitee.com/Slexy/picture/raw/master/20250310221735461.png" alt="image-20250310221735245" style="zoom:50%;" />
+<img src="https://gitee.com/Slexy/picture/raw/master/20250310221735461.png" alt="image-20250310221735245" style="zoom:25%;" />
